@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:15:02.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.837 YaBrowser/23.9.4.837 Yowser/2.5 Safari/537.36" etag="ccK2tUeKOwIjNU_XlzGp" version="22.1.0" type="device">
+  <diagram name="Страница — 1" id="aGnWt9MbIN1OLN_khWf-">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tst41zbPHNi3Ui-qg7MN-9" value="Encryptor" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tst41zbPHNi3Ui-qg7MN-10" value=" Decryptor " style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tst41zbPHNi3Ui-qg7MN-12" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tst41zbPHNi3Ui-qg7MN-10" target="tst41zbPHNi3Ui-qg7MN-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="530" as="sourcePoint" />
+            <mxPoint x="285" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tst41zbPHNi3Ui-qg7MN-13" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tst41zbPHNi3Ui-qg7MN-9" target="tst41zbPHNi3Ui-qg7MN-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="280" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tst41zbPHNi3Ui-qg7MN-15" value="file" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
